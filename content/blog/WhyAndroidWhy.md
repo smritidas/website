@@ -23,4 +23,4 @@ Despite my frustrations, doing detective work has been beneficial for me. Unders
  
 That being said, I’d love to see these complexities explained and documented better, going forward. It would empower developers, of any skill level, to make better decisions.
 
-*Thanks to Sumayyah Ahmed for her help on this post*
+*Thanks to Sumayyah Ahmed for her help on this post.*
