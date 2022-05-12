@@ -1,10 +1,9 @@
 ---
-title: "WhyAndroidWhy"
+title: "Why Android, why?"
 date: 2022-05-12T17:29:39-04:00
 draft: false
 ---
 
-#Why Android, why?
 
 It’s no secret that the Android Development ecosystem is in a state of flux with its many changes. These changes, in turn, have made learning it a challenge for me. I found myself sifting through opinions explaining how any coding task could be accomplished. On top of that, I faced another problem: should I even use this approach? To illustrate my point, take something like `ViewBinding`. It’s unclear, even after reading tutorials, if it’s worthwhile to use it in a small demo app?
  
@@ -23,3 +22,5 @@ Back to Android, why is this the case? To answer the question I asked experience
 Despite my frustrations, doing detective work has been beneficial for me. Understanding the why’s has helped me recognize the pros and cons of using an approach. I know if it’s worth using a specific library in my app and how this can impact development down the line. Another benefit is when making architectural decisions for building out features.
  
 That being said, I’d love to see these complexities explained and documented better, going forward. It would empower developers, of any skill level, to make better decisions.
+
+*Thanks to Sumayyah Ahmed for her help on this post*
