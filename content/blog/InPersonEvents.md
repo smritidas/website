@@ -19,7 +19,7 @@ With all that in mind, I am sharing what I’ve learned hosting in-person events
 
 4. **Volunteers** - are great to have for events where there are many logistics to cover. I like to assign tasks beforehand so volunteers know what I need them to do as they arrive. Duties have included staffing the welcome table, setting up the catering, and putting up decorations, signs etc. 
 
-5. <**Swag** - for a free event, in my experience, people are happy with stickers. Other than that a few prizes, catering and meeting new people leaves most, if not everyone, satisfied. 
+5. **Swag** - for a free event, in my experience, people are happy with stickers. Other than that a few prizes, catering and meeting new people leaves most, if not everyone, satisfied. 
 
 I’ll be sharing more of the tidbits of in-person events in the coming months! 
 
