@@ -1,5 +1,5 @@
 ---
-title: "Hummingbirds and Hostas (self-care during interviews"
+title: "Hummingbirds and Hostas (self-care during interviews)
 date: 2022-09-09T14:58:11-04:00
 draft: false
 ---
@@ -16,4 +16,4 @@ On the other hand, there aren’t a lot of articles on taking care of oneself wh
 - Deep breaths: I get anxious before getting on calls with strangers. A tip I learned was to take a breath in for 5, breathe out for 5 until I felt calm. 
 - Finally, rejection doesn’t define me and I take the process as a learning experience. I try to keep other companies in the pipeline so that if one doesn’t work out, I can focus on the next opportunity. 
 
-Interviews are tough, but I remind myself that they are doable as well. As the quote goes *“the cave you fear to enter, holds the treasure you seek.”* Joseph Campbell
+Interviews are tough, but I remind myself that they are doable as well. As the quote goes *“the cave you fear to enter, holds the treasure you seek”* Joseph Campbell
