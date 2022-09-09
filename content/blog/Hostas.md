@@ -1,5 +1,5 @@
 ---
-title: "Hummingbirds and Hostas (self-care during interviews)
+title: "Hummingbirds and Hostas (self care during interviews)"
 date: 2022-09-09T14:58:11-04:00
 draft: false
 ---
