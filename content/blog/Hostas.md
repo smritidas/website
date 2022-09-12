@@ -4,7 +4,7 @@ date: 2022-09-09T14:58:11-04:00
 draft: false
 ---
 
-A few weeks back I decided to take a quick break studying for tech interviews. After all, there’s only so much time one can spend grinding Leetcode in one day.
+A few weeks back, I decided to take a quick break from studying for tech interviews. After all, there’s only so much time one can spend grinding Leetcode in one day.
 
 That did get me thinking though. A quick scan of the internet reveal's the many books, articles and blogs written about the job hunt. These pieces range from best practices during interviews (be enthusiastic and honest) to optimizing your LinkedIn profile (optimizing keywords). There’s also many articles on how the process isn't great (I will cover this in a future post).
 
