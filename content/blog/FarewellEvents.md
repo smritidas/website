@@ -13,7 +13,7 @@ Recently, though, I decided to give up event coordination for good. There were t
 On that note, I learned a few things and wanted to share some tips, I learned for the future crop of community organizers:
 
 
-Pre-event:
+<h5>Pre-event:</h5>
 
 
 **Finding speakers** When looking for speakers we would reach out to experienced speakers, directly. Once the meetup became better attended, I found speakers would volunteer on their own. Another idea is encouraging first time speakers to give a talk by running an event featuring only short (lighting) talks.
@@ -37,7 +37,7 @@ Pre-event:
 **Promotion** We’d post the event about two weeks before on Meetup, Twitter and on our shared Slack team. We’d also remind community members of the event on Slack and Twitter, on the day of.
 
 
-At-event:
+<h5>At-event:</h5>
 
 
 **Get there early!** It’s nice to introduce yourself and get to know the company and thank them for hosting. My rule of thumb was to get there at least 30 mins in advance. After all, they might need help setting up chairs, moving tables or getting the catering (if they had it) out.
@@ -49,7 +49,7 @@ At-event:
 **Photos** It’s great to take a few of the audience, speakers and people mingling. They give the meetup page a welcoming vibe.
 
 
-Post-event:
+<h5>Post-event:</h5>
 
 
 **Thank you notes** I would write thanks to all our attendees in Slack, and post on the meetup page. I would also send thank you notes to the speaker(s) and to the company & people who had hosted us.
