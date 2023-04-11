@@ -4,7 +4,7 @@ draft: false
 weight: 8
 ---
 
-Hi, I'm Smriti (pronounced Smer-rih-tee). I'm a software developer who works primarily in mobile app development (Android). Before that I worked as a climatologist specializing in mitigating urban heat issues, after completing a Masters in Science degree at the University of Toronto. 
+Hi, I'm Smriti (pronounced Smer-rih-tee). I'm a software developer who works primarily in mobile app development (Android). Before that I worked as a climatologist specializing in mitigating urban heat issues, after completing a Masters of Science degree at the University of Toronto. 
 
 How did I end up in app development you might ask? Well, I'm fascinated by all the ways techology can be used for good, including utilizing tech based solutions to adapt to and mitigate climate change. On top of that I enjoy problem-solving, learning new things, and exchanging ideas. Tech felt like a natural place for me. 
 
