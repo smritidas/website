@@ -4,7 +4,7 @@ date: 2023-09-06T14:17:37-04:00
 draft: false
 ---
 
-An opportunity to attend an Enneagram workshop popped up in my feed a few weeks ago? Being curious, I looked up what an Enneagram was? An Enneagram is a personality test where there’s nine different types. Curious, I took the quiz which said that I was type 2: the helper, the giver, the mentor. Reading through the definition, some of it sounded a bit like me. I decided to attend the workshop, to learn more. It was definitely helpful and I gained a better understanding of myself. 
+An opportunity to attend an Enneagram workshop popped up in my feed a few weeks ago. Being curious, I looked up what an Enneagram was? An Enneagram is a personality test where there’s nine different types. Curious, I took the quiz which said that I was type 2: the helper, the giver, the mentor. Reading through the definition, some of it sounded a bit like me. I decided to attend the workshop, to learn more. It was definitely helpful and I gained a better understanding of myself. 
 
 Some quick background: over the past year I found myself feeling more mentally drained than usual. Things that wouldn’t normally phase me, started to. In a quest to help alleviate the fatigue, I found myself asking what could I cut back on? What’s more, it would be helpful for me to learn more about and get better at practicing self-care. 
 
