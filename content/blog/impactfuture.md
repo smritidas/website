@@ -4,7 +4,7 @@ date: 2024-03-25T19:38:18-04:00
 draft: false
 ---
 
-It was International Women’s Day (IWD), a few weeks back on March 8th. As an ambassador for [Women Techmakers] (developers.google.com/womentechmakers), I wanted to take some time to reflect on the occasion. This year the theme for IWD is ‘Impact the Future’. As per the description regarding the theme ‘Impact the Future’ can be understood as (1) how will technology shape the future and/or (2) how do we inspire future generations, especially women in tech? 
+It was International Women’s Day (IWD), a few weeks back on March 8th. As an ambassador for [Women Techmakers](https://www.womentechmakers.com/), I wanted to take some time to reflect on the occasion. This year the theme for IWD is ‘Impact the Future’. As per the description regarding the theme ‘Impact the Future’ can be understood as (1) how will technology shape the future and/or (2) how do we inspire future generations, especially women in tech? 
 
 I’ve also been reading on taking ownership of my future, lately. In a nutshell, this means imagining my future self, and setting goals to achieve that vision. In this blog, I’m am going to write about some goals I’d ideally like to achieve for my future self:
 <ul>
