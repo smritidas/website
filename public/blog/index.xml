@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Introduction</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Introduction</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jun 2024 14:00:18 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESG&#39;s in the cloud</title>
+      <link>http://localhost:1313/blog/esgs/</link>
+      <pubDate>Mon, 24 Jun 2024 14:00:18 -0400</pubDate>
+      <guid>http://localhost:1313/blog/esgs/</guid>
+      <description>&lt;p&gt;As someone in the cloud area but with an interest in climate tech, I read about ESGs and decided to dive in to learn about the intersection of the two.  More specifically, I was asking myself ‘I’ve read that cloud platforms work with ESG’s, but how?’ This is what I found out. For starters, ESG’s stand for environment, social and governance and are used as a way to measure the socially responsible metrics of a business.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impact your future self</title>
+      <link>http://localhost:1313/blog/impactfuture/</link>
+      <pubDate>Mon, 25 Mar 2024 19:38:18 -0400</pubDate>
+      <guid>http://localhost:1313/blog/impactfuture/</guid>
+      <description>&lt;p&gt;It was International Women’s Day (IWD), a few weeks back on March 8th. As an ambassador for &lt;a href=&#34;https://www.womentechmakers.com/&#34;&gt;Women Techmakers&lt;/a&gt;, I wanted to take some time to reflect on the occasion. This year the theme for IWD is ‘Impact the Future’. As per the description regarding the theme ‘Impact the Future’ can be understood as (1) how will technology shape the future and/or (2) how do we inspire future generations, especially women in tech?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cloud Technology and Climate: Part 1</title>
+      <link>http://localhost:1313/blog/cloudclimate_1/</link>
+      <pubDate>Mon, 12 Feb 2024 14:57:17 -0500</pubDate>
+      <guid>http://localhost:1313/blog/cloudclimate_1/</guid>
+      <description>&lt;p&gt;It’s fascinating to watch the rise of climate tech companies over the past few years. It’s no secret that climate change is a major problem and watching the myriad of companies, especially in tech, rise to the challenge is fascinating to watch.&lt;/p&gt;&#xA;&lt;p&gt;As I study for cloud certifications, I’ve been looking at sustainability as incorporated within some of the major cloud providers. Amazon (AWS), Microsoft (Azure) and Google (GCP) (the biggest three per market share) have all outlined their commitments to environmental causes. Amongst these are impressive pledges ranging from committing to powering their data centers with renewable energy (all three providers) to keeping hardware in use longer (AWS). At the same time, GCP says they are working towards using carbon free energy sources by 2030. Finally, Microsoft outlines a number of environmental projects, such as reforestation efforts, in various places around the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stress and decompress</title>
+      <link>http://localhost:1313/blog/stresstips/</link>
+      <pubDate>Fri, 01 Dec 2023 15:59:58 -0500</pubDate>
+      <guid>http://localhost:1313/blog/stresstips/</guid>
+      <description>&lt;p&gt;It’s cold. It’s snowing. The days are short, and the nights are long. All of this combined with some major career uncertainty, has me feeling a bit down at this time of year. On top of that, I ideally have several goals I’d like to accomplish before the year finishes.&lt;/p&gt;&#xA;&lt;p&gt;These include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;studying for a cloud certification and researching a demo project&lt;/li&gt; &#xA;&lt;li&gt;further my Python skills (web scraping etc.)&lt;/li&gt;&#xA;&lt;li&gt;networking with people &lt;/li&gt;&#xA;&lt;li&gt;prepare for the job hunt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;There’s a lot to do so I need to figure out how to motivate myself to end the year on a high note.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enneagram Workshop</title>
+      <link>http://localhost:1313/blog/workshop/</link>
+      <pubDate>Wed, 06 Sep 2023 14:17:37 -0400</pubDate>
+      <guid>http://localhost:1313/blog/workshop/</guid>
+      <description>&lt;p&gt;An opportunity to attend an Enneagram workshop popped up in my feed a few weeks ago. Being curious, I looked up what an Enneagram was? An Enneagram is a personality test where there’s nine different types. Curious, I took the quiz which said that I was type 2: the helper, the giver, the mentor. Reading through the definition, some of it sounded a bit like me. I decided to attend the workshop, to learn more. It was definitely helpful and I gained a better understanding of myself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Envisioning your future</title>
+      <link>http://localhost:1313/blog/visionboard/</link>
+      <pubDate>Tue, 11 Apr 2023 14:11:50 -0400</pubDate>
+      <guid>http://localhost:1313/blog/visionboard/</guid>
+      <description>&lt;p&gt;At the beginning of April, I joined a 30 day challenge which featured ways to grow and improve your life. Among the challenges was something I had done recently; to make a vision board. I enjoyed making one so much that I wanted to write about the process.&lt;/p&gt;&#xA;&lt;h5&gt;What is a vision board?&lt;/h5&gt;&#xA;&lt;p&gt;A vision board is a pictorial representation (can have words too) of one’s dreams, aspirations and goals. They are meant to serve as motivation to bring desires into fruition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Farewell to events</title>
+      <link>http://localhost:1313/blog/farewellevents/</link>
+      <pubDate>Sat, 25 Feb 2023 16:07:08 -0500</pubDate>
+      <guid>http://localhost:1313/blog/farewellevents/</guid>
+      <description>&lt;p&gt;I’ve been managing &amp;amp; running events for more than a decade. I was first drawn to organizing them, as I enjoyed the satisfying feeling of a job well-done. Initially, I ran events as part of my professional career. After that ended, and I switched careers, I continued with events in two volunteer roles for Google Developer Groups (GDG) and Women Who Code (WWC).&lt;/p&gt;&#xA;&lt;p&gt;Recently, though, I decided to give up event coordination for good. There were two main reasons behind my decision. First, I realized I no longer had the energy for events. Second, I wanted the time and space to learn new things. Admittedly, I was getting a bit tired of the grind.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hummingbirds and Hostas (self-care during interviews)</title>
+      <link>http://localhost:1313/blog/hostas/</link>
+      <pubDate>Fri, 09 Sep 2022 14:58:11 -0400</pubDate>
+      <guid>http://localhost:1313/blog/hostas/</guid>
+      <description>&lt;p&gt;A few weeks back, I decided to take a quick break from studying for tech interviews. After all, there’s only so much time one can spend grinding Leetcode in one day.&lt;/p&gt;&#xA;&lt;p&gt;That did get me thinking though. A quick scan of the internet reveal&amp;rsquo;s the many books, articles and blogs written about the job hunt. These pieces range from best practices during interviews (be enthusiastic and honest) to optimizing your LinkedIn profile (optimizing keywords). There’s also many articles on how the process isn&amp;rsquo;t great (I will cover this in a future post).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The ins and outs of in-person events</title>
+      <link>http://localhost:1313/blog/inpersonevents/</link>
+      <pubDate>Tue, 14 Jun 2022 13:47:11 -0400</pubDate>
+      <guid>http://localhost:1313/blog/inpersonevents/</guid>
+      <description>&lt;p&gt;With many in-person events returning, it’s wonderful to see things returning to somewhat normal. As a community organizer, I am actively thinking about the return of in-person tech events. I know I’m not the only one tired of video calls.&lt;/p&gt;&#xA;&lt;p&gt;The last time I ran an in-person event was for International Women’s Day (IWD) in March of 2020. It feels surreal realizing that there were about 100+ people in attendance for a three hour event featuring a keynote and panel. On the food and beverage side, we had catering trays (sandwiches, salads, falafel) delivered which included cupcakes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Android, why?</title>
+      <link>http://localhost:1313/blog/whyandroidwhy/</link>
+      <pubDate>Thu, 12 May 2022 17:29:39 -0400</pubDate>
+      <guid>http://localhost:1313/blog/whyandroidwhy/</guid>
+      <description>&lt;p&gt;It’s no secret that the Android Development ecosystem is in a state of flux with its many changes. These changes, in turn, have made learning it a challenge for me. I found myself sifting through opinions explaining how any coding task could be accomplished. On top of that, I faced another problem: should I even use this approach? To illustrate my point, take something like &lt;code&gt;ViewBinding&lt;/code&gt;. It’s unclear, even after reading tutorials, if it’s worthwhile to use it in a small demo app?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coming soon!</title>
+      <link>http://localhost:1313/blog/yourentrytitle/</link>
+      <pubDate>Tue, 15 Feb 2022 17:23:46 -0500</pubDate>
+      <guid>http://localhost:1313/blog/yourentrytitle/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
