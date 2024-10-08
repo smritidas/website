@@ -1,10 +1,10 @@
 ---
-title: "PCAexam"
+title: "PCA exam"
 date: 2024-09-06T11:49:44-04:00
 draft: false
 ---
 
-I’m currently in a training course for my first Google Cloud Platform (GCP) for the Professional Cloud Architect certification. I have to say, so far, I am finding the material enticing but daunting. In that spirit, I wanted to write what about my study plan to pass the certification. 
+I’m currently in a training course for my first Google Cloud Platform(GCP) for the Professional Cloud Architect(PCA) certification. I have to say, so far, I am finding the material enticing but daunting. In that spirit, I wanted to write what about my study plan to pass the certification. 
 
 The main topics in cloud to familiarize myself with are database, compute services, storage and networking. I’m admittedly having trouble wrapping my head around all the terms. To alleviate this problem, I keep a running list of terms and their definitions in a document. I look up anything I don’t understand and keep a definition of it, for quick access. On top of that, I’ve made flash cards with the name of the service on one side, and the notes on the other side. 
 
