@@ -1,5 +1,5 @@
 ---
-title: "AWSsummit"
+title: "AWS Summit"
 date: 2024-10-08T11:06:41-04:00
 draft: false
 ---
