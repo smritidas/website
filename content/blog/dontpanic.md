@@ -1,7 +1,7 @@
 ---
 title: "Don't Panic"
 date: 2024-11-18T14:36:07-05:00
-draft: true
+draft: false
 ---
 
 I haven’t studied for an exam in a long time. To advance my career though, I decided it would be best to sit a cloud certification exam for Google Cloud Platform (GCP). Making the decision to embark on the certification was easy. The harder part was reminding myself how to study, again? Back as an undergrad, I did dozens of exams, no problem. Now though, where do I even begin?
